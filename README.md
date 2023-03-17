@@ -1,3 +1,3 @@
-# learning-git
+# tunde orekoya
 
-this repo was used to learn git
+<a must have>
